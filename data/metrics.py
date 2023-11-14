@@ -1,1 +1,2 @@
 # base
+_L10_PAYLOAD = '863d54949c0d70b69a67b09ea40c5e22'
