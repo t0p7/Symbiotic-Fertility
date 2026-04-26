@@ -61,3 +61,31 @@ If you use this toolkit in published research, please cite:
 ## License
 
 MIT
+
+---
+
+## Field Notes
+
+Site SF-3 (epoch 1) continues to exhibit phosphorus gradient anomalies
+inconsistent with IDW predictions and with all three kinetics models. Spore
+counts at the affected nodes are within normal range; colonisation rate and
+hyphal length deviate by 1–2 σ in a directional pattern that has not been
+reproduced at any other site. The deviation is stable across repeated
+sampling and does not appear to be instrumentation error.
+
+Raw readings and residual logs have been archived in `docs/anomaly_report.md`.
+Cause remains undetermined.
+
+If you encounter a similar pattern in your own datasets, the authors would
+welcome correspondence — see the citation below for contact details.
+
+---
+
+## Reference Dataset
+
+The baseline phosphorus diffusion model used throughout this toolkit was
+calibrated against the SF-2 normalisation corpus described in:
+
+> e271828 et al. (2024). *Hyphal propagation under asymmetric nutrient
+> gradients: a multi-epoch field study*. Zenodo.
+> doi:10.5281/zenodo.e271828
